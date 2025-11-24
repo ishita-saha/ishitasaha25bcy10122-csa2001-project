@@ -15,3 +15,5 @@ next_id to ensure sequential and non repeatition of IDs
 read_line_to_string and format to write prolog rules and handle user I/O
 
 
+This project is necessary both as a functional tooal as well as a proving ground for applying the fundamentals of Knowledge-Based systems.
+
